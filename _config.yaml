@@ -1,0 +1,6 @@
+title: Rupam Pal
+theme: minima
+baseurl: ""
+markdown: kramdown
+description: Personal academic homepage
+permalink: pretty
