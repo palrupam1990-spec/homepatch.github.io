@@ -25,6 +25,14 @@ Research Interests
 Experience
 =======
 
+Simyog Technology
+----
+Senior Development Engineer - III, Jan 2024 - Present
+
+Senior Development Engineer - II, Aug 2021 - Dec 2023
+
+Technical Consultant (Part-time) Jan 2021 - Jul 2021
+
 
 Education
 ========
@@ -54,10 +62,7 @@ Department of Electrical Engineering, Jadavpur University, 2009 – 2013
 Grade: 8.76/10 (First class honors)
 
 
-Selected Publications
-======
 
-Recent paper or project title — short one‑line description; add PDF/code links as needed.​
 
 
 

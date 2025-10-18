@@ -39,5 +39,15 @@
 
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands"
-;
+    "vendor/font-awesome/brands";
+
+.author__avatar img,
+.profile img,
+.avatar img,
+img.avatar,
+.site-logo img {
+width: 180px;
+height: 180px;
+object-fit: cover;
+border-radius: 50%;
+}
