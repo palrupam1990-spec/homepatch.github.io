@@ -1,11 +1,11 @@
 ---
-title: "Electromagnetics Theory"
+title: "Computational Methods for Electrostatics"
 collection: teaching
 type: "Teaching Assistant"
 excerpt: ''
 permalink: /teaching/2014-spring-teaching-1
 venue: "Department of Electrical Engineering, IISc"
-date: July, 2016
+date: January, 2016
 location: "Bangalore, India"
 ---
 

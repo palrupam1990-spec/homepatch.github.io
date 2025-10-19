@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Dynamics of Linear Systems"
 collection: teaching
-type: "Undergraduate course"
+type: "Teaching Assistant"
+excerpt: ''
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Department of Electrical Engineering, IISc"
+date: July, 2015
+location: "Bangalore, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Assisted Prof. Tallapragada in delivering the course, which included both lectures and assignments for a class of 50+ students
+- Delivered a short lecture series on Linear Algebra as a refresher, which was well-received by both students
+- Responsible for grading assignments, providing constructive feedback, and clarifying any doubts students had regarding the assignments
+- Contributed to fostering a collaborative learning environment by assisting students with course material and promoting an understanding of complex concepts in linear systems

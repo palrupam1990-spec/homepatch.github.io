@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Adaptive Frequency Sweep Control"
+excerpt: "Enhancement and stabilization of AFS algorithm for better performance and faster convergence"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Stabilized and enhanced Adaptive Frequency Sweep algorithm for automatic selection
+of frequencies to be solved to cover a large frequency range by only a limited
+number of solved points using Vector-Fitting for interpolation. 

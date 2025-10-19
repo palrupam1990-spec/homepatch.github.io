@@ -20,8 +20,8 @@ main:
   - title: "Industry Projects"
     url: /portfolio/
         
-  - title: "Awards and Achievements"
-    url: /year-archive/
+  #- title: "Awards and Achievements"
+   # url: /year-archive/
     
   #- title: "CV"
    # url: /cv/
