@@ -75,6 +75,11 @@ Recognitions
 - GATE : AIR - 5, 2013
 - State Electrical Engineers Association, West Bengal : One-time scholarship for top 5 students of the Final Year Batch, Electrical Engineering Department, Jadavpur University
 
+Contact
+=======
+
+Email-id : palrupam1990@gmail.com
+
 
 
 
